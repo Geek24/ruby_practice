@@ -30,3 +30,11 @@ s.each do |sub_array|
         puts y
     end
 end
+
+=begin
+ numbers = [1,2,3,4,5]
+ for number in numbers
+ # This will iterate over array, and each value will temp be stored in "number"
+ 
+ .each do | X |  # X is the templorary holding of value in this case.
+ 

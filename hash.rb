@@ -22,4 +22,7 @@ lunch_order.each do |x, y|
     puts y
 end
 
-puts "test"
+# Creates a hash mapping integers to the strings
+colors = { "red" => 2, "blue" => 3 }
+
+
